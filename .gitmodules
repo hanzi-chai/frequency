@@ -1,0 +1,9 @@
+[submodule "corpus/web"]
+	path = corpus/web
+	url = https://huggingface.co/datasets/CASIA-LM/ChineseWebText
+[submodule "corpus/h-novel"]
+	path = corpus/h-novel
+	url = https://huggingface.co/datasets/a686d380/h-corpus-2023
+[submodule "corpus/pixiv"]
+	path = corpus/pixiv
+	url = https://huggingface.co/datasets/wuliangfo/Chinese-Pixiv-Novel
